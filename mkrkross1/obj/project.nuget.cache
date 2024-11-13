@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmRcqUiJIxC5bsLHdhZA3iCdEVFLT7EuGSVeq732qKsOO7pmeEZP2PYf+ug1AHRRpqeUsl4Dc/EVh9zq6PElBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rushb\\OneDrive\\Рабочий стол\\Учоба\\mkrkross1\\mkrkross1\\mkrkross1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.analyzers\\1.16.0\\xunit.analyzers.1.16.0.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\rushb\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

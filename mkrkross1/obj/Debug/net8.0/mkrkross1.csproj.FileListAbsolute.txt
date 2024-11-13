@@ -1,0 +1,14 @@
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\bin\Debug\net8.0\mkrkross1.exe
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\bin\Debug\net8.0\mkrkross1.deps.json
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\bin\Debug\net8.0\mkrkross1.runtimeconfig.json
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\bin\Debug\net8.0\mkrkross1.dll
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\bin\Debug\net8.0\mkrkross1.pdb
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.AssemblyInfoInputs.cache
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.AssemblyInfo.cs
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.csproj.CoreCompileInputs.cache
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.dll
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\refint\mkrkross1.dll
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.pdb
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\mkrkross1.genruntimeconfig.cache
+C:\Users\rushb\OneDrive\Рабочий стол\Учоба\mkrkross1\mkrkross1\obj\Debug\net8.0\ref\mkrkross1.dll
